@@ -19,4 +19,4 @@
 ### 1. Репозиторийди клондоп алуу
 ```bash
 git clone https://github.com/Ainaa98/education-platform.git
-cd education-platform
+cd it-platform
