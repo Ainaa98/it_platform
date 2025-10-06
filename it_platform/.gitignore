@@ -1,0 +1,30 @@
+# IDE файлдары
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Виртуалдуу айлана
+venv/
+env/
+ENV/
+
+# Python файлдары
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Django
+db.sqlite3
+*.log
+media/
+staticfiles/
+
+# Environment variables
+.env
+.venv
+
+# OS файлдары
+.DS_Store
+Thumbs.db

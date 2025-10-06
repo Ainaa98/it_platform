@@ -1,0 +1,17 @@
+Django==5.0.2
+djangorestframework==3.14.0
+django-rest-framework-simplejwt==5.3.0
+drf-yasg==1.21.7
+django-filter==23.5
+django-cors-headers==4.3.1
+Pillow==10.2.0
+python-decouple==3.8
+gunicorn==21.2.0
+whitenoise==6.6.0
+
+# PostgreSQL үчүн (коментирленген)
+# psycopg2-binary==2.9.9
+
+# Production үчүн кошумча пакеттер
+# python-decouple==3.8
+# sentry-sdk==1.40.0
